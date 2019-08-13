@@ -1,6 +1,6 @@
 
 .Task {
-    width: 50px;
+    width: 100%;
     color: dodgerblue;
     background-color: white;
     padding: 10px;
@@ -10,4 +10,5 @@
 .Task.completed {
     color: red;
     text-decoration: line-through;
+    /* display: none; */
 }
